@@ -25,8 +25,4 @@ Desenvolvimento de sistemas, Service Desk e manutenção de sistemas legados.
 <a href="https://www.linkedin.com/in/jonas-josino-b5064257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 __________________________________________________________________________________________________________________________ <br><br>
-<div>
-<a href="https://github.com/jjosinoms">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjosinoms&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjosinoms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
