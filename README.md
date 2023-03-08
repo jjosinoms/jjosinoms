@@ -11,118 +11,119 @@ Possuo inglês intermediário e aproximadamente 4 anos de experiência que tive 
 Desenvolvimento de sistemas, Service Desk e manutenção de sistemas legados.
 
 ## Curso em Andamento - COTI Informática ( FullStack .Net + Angular )
-Conteúdo do curso
+<p> Conteúdo do curso
 C# Orientado a Objetos
-
+</p>
 Desenvolver os principais conceitos de orientação a objetos sob a plataforma .Net utilizando a linguagem C#
-
-Configuração da IDE Microsoft VisualStudio
-Orientação a Objetos
-ConsoleApplication
-Classes, Atributos e Métodos
-Encapsulamento (propriedades set e get)
-Modificadores de Acesso
-Relacionamentos de Herança e Associação
-Entrada de dados
-Tratamento de Exceções
-Manipulação de Arquivos
-Interfaces
-Classes Abstratas
-Polimorfismo
-Tipos Genericos de dados
-System.Collections 
-Sobrecarga de Métodos
-Sobrescrita de Métodos
-Métodos estáticos
-Acesso ao SqlServer com Dapper (Padrão Repositório)
-ASP.NET 7
-
+<p>
+Configuração da IDE Microsoft VisualStudio</br>
+Orientação a Objetos</br>
+ConsoleApplication</br>
+Classes, Atributos e Métodos</br>
+Encapsulamento (propriedades set e get)</br>
+Modificadores de Acesso</br>
+Relacionamentos de Herança e Associação</br>
+Entrada de dados</br>
+Tratamento de Exceções</br>
+Manipulação de Arquivos</br>
+Interfaces</br>
+Classes Abstratas</br>
+Polimorfismo</br>
+Tipos Genericos de dados</br>
+System.Collections </br>
+Sobrecarga de Métodos</br>
+Sobrescrita de Métodos</br>
+Métodos estáticos</br>
+Acesso ao SqlServer com Dapper (Padrão Repositório)</br>
+ASP.NET 7</br>
+</p>
 Desenvolvimento de aplicações ASP.NET utilizando MVC e API além de EntityFramework e demais tecnologias
 
   ASP.NET 7 MVC - Model, View e Controller
 
-Introdução ao MVC
-Definindo Controllers e rotas
-Camada de Visão – Páginas .cshtml
-Utilizando a sintaxe @Razor
-Definição da camada de modelo
-Mapeamento da camada de modelo (Validações, mensagens)
-Criando formulários e entrada de dados
-Redirecionamento
-ActionResult e JsonResult
-ViewBag e ViewData
-HttpPost e HttpGet
-Desenvolvendo uma aplicação CRUD com Asp.Net MVC e EntityFramework
-Upload de arquivos
-Login de Usuarios e permissões de acesso em MVC
-Authorize
-Utilizando Ajax com Jquery
-Injeção de dependência
- ASP.NET 7 API (REST - Arquitetura de microserviços)
+Introdução ao MVC</br>
+Definindo Controllers e rotas</br>
+Camada de Visão – Páginas .cshtml</br>
+Utilizando a sintaxe @Razor</br>
+Definição da camada de modelo</br>
+Mapeamento da camada de modelo (Validações, mensagens)</br>
+Criando formulários e entrada de dados</br>
+Redirecionamento</br>
+ActionResult e JsonResult</br>
+ViewBag e ViewData</br>
+HttpPost e HttpGet</br>
+Desenvolvendo uma aplicação CRUD com Asp.Net MVC e EntityFramework</br>
+Upload de arquivos</br>
+Login de Usuarios e permissões de acesso em MVC</br>
+Authorize</br>
+Utilizando Ajax com Jquery</br>
+Injeção de dependência</br>
+ ASP.NET 7 API (REST - Arquitetura de microserviços)</br>
+</br>
+Introdução ao padrão REST e arquitetura de MicroServiços</br>
+Implementando serviços REST com WebApi</br>
+HttpStatusCodes</br>
+Enviando e recebendo JSON</br>
+Models</br>
+Mapeamento de rotas e verbos HTTP</br>
+POST, GET, PUT e DELETE</br>
+Mapeamento de rotas e serviços</br>
+Configurando CORS</br>
+Testando serviços com POSTMAN]</br>
+Swagger</br>
+ Entity Framework 7 (CODE FIRST)</br>
+</br>
+Configuração e utilização do EntityFramewework CORE</br>
+Persistência de dados com EF</br>
+Mapeamento Objeto Relacional com Fluent</br>
+Mapeamento de relacionamentos </br>
+DbContext e DbSet</br>
+Migrations</br>
+Persistencia de dados Operações CRUD com EF</br>
+Consultas com Expressões LAMBDA</br>
+Repositorio Generico com EntityFramework</br>
+ DDD (Domain Driven Design) e TDD (Test Driven Development)</br>
 
-Introdução ao padrão REST e arquitetura de MicroServiços
-Implementando serviços REST com WebApi
-HttpStatusCodes
-Enviando e recebendo JSON
-Models
-Mapeamento de rotas e verbos HTTP
-POST, GET, PUT e DELETE
-Mapeamento de rotas e serviços
-Configurando CORS
-Testando serviços com POSTMAN]
-Swagger
- Entity Framework 7 (CODE FIRST)
+Introdução do DDD - Domain Driven Design</br>
+Modelos de domínio</br>
+Serviços de domínio</br>
+Repositórios e Infra-Estrutura</br>
+Camada de aplicação</br>
+Injeção de dependência</br>
+Introdução ao TDD - Test Driven Development</br>
+Criando testes com XUnit</br>
+Fluent Assertions</br>
+Bogus para geração de dados FAKE</br>
+Testando APIs com HttpClient</br>
+ Angular 15 (Desenvolvimento FrontEnd)</br>
 
-Configuração e utilização do EntityFramewework CORE
-Persistência de dados com EF
-Mapeamento Objeto Relacional com Fluent
-Mapeamento de relacionamentos 
-DbContext e DbSet
-Migrations
-Persistencia de dados Operações CRUD com EF
-Consultas com Expressões LAMBDA
-Repositorio Generico com EntityFramework
- DDD (Domain Driven Design) e TDD (Test Driven Development)
-
-Introdução do DDD - Domain Driven Design
-Modelos de domínio
-Serviços de domínio
-Repositórios e Infra-Estrutura
-Camada de aplicação
-Injeção de dependência
-Introdução ao TDD - Test Driven Development
-Criando testes com XUnit
-Fluent Assertions
-Bogus para geração de dados FAKE
-Testando APIs com HttpClient
- Angular 15 (Desenvolvimento FrontEnd)
-
-Controllers, modulos e views em Angular
-Criando componentes
-Single Page Application
-HttpClient
-FormsModule (Desenvolvimento de formulários reativos)
-Implementando o cliente de serviços com Angular
-Mapeamento de Rotas e serviços
-Consumindo uma API REST
-Boas práticas
-Mensageria com RabbitMQ
-
-Entendendo serviços de mensageria
-Producers e Consumers
-Criando serviço de mensageria com RabbitMQ
-Docker
-
-Introdução ao Docker
-Containers e Imagens
-Configuração e instalação
-Publicação com DockerHub
-Publicação de projetos no GIT HUB
-
-Publicação de projetos em HOST FREE (myasp.net)
-
-Desenvolvimento de Projeto final baseado em temas e arquiteturas sugeridas pelo Professor. 
-Atualmente fazendo curso FullStack .Net + angular na COTI Informática( Início 09/01/2023 - Até o momento).
+Controllers, modulos e views em Angular</br>
+Criando componentes</br>
+Single Page Application</br>
+HttpClient</br>
+FormsModule (Desenvolvimento de formulários reativos)</br>
+Implementando o cliente de serviços com Angular</br>
+Mapeamento de Rotas e serviços</br>
+Consumindo uma API REST</br>
+Boas práticas</br>
+Mensageria com RabbitMQ</br>
+</br>
+Entendendo serviços de mensageria</br>
+Producers e Consumers</br>
+Criando serviço de mensageria com RabbitMQ</br>
+Docker</br>
+</br>
+Introdução ao Docker</br>
+Containers e Imagens</br>
+Configuração e instalação</br>
+Publicação com DockerHub</br>
+Publicação de projetos no GIT HUB</br>
+</br>
+Publicação de projetos em HOST FREE (myasp.net)</br>
+</br>
+Desenvolvimento de Projeto final baseado em temas e arquiteturas sugeridas pelo Professor. </br>
+</br>
+( Início 09/01/2023 - Até o momento).</br>
 
 ## Ferramentas e Tecnologias
 
