@@ -6,6 +6,8 @@ Sou graduado em Sistemas de Informação pela Estácio de Sá / Técnico em Info
 No momento estou buscando uma oportunidade de trabalho como Desenvolvedor Web / Analista de Sistemas Jr.
 
 Possuo experiência em .Net, Angular, HTML5, CSS, JavaScript, React, NextJs, Node.js, Python, Orientação a objetos e Metodologias Ágeis.
+
+Atualmente fazendo curso FullStack .Net + angular na COTI Informática( Início 09/01/2023 - Até o momento).
  
 Possuo inglês intermediário e aproximadamente 4 anos de experiência que tive nas empresas pelas quais passei:
 Desenvolvimento de sistemas, Service Desk e manutenção de sistemas legados.
