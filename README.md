@@ -3,7 +3,7 @@
 
 ## Um pouco sobre mim!
 Sou graduado em Sistemas de Informação pela Estácio de Sá / Técnico em Informática pelo Senac.
-No momento estou buscando uma oportunidade de trabalho como Desenvolvedor Web / Analista de Sistemas Jr.
+No momento estou buscando uma oportunidade de trabalho como Desenvolvedor Web / Analista de Sistemas.
 
 Possuo experiência em .Net, Angular, HTML5, CSS, JavaScript, React, NextJs, Node.js, Python, Orientação a objetos e Metodologias Ágeis.
  
