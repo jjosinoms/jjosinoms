@@ -18,7 +18,7 @@ Atualmente, busco novas oportunidades como **Desenvolvedor Web** ou **Analista d
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-josino-b5064257/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-jonas.jonz.com.br-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonas.jonz.com.br)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-jonas.jonz.com.br-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonz.com.br)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjosinoms@gmail.com)
 
 ---
